@@ -1,24 +1,3 @@
-1) Olá Mundo Personalizado
-Objetivo: Praticar o uso das funções print() e input() e a declaração de variáveis.
-1. Crie um programa que peça ao usuário para digitar o seu nome.
-2. Armazene o nome digitado em uma variável chamada nome.
-3. Em seguida, exiba uma mensagem de boas-vindas personalizada, como:
-"Olá, [nome do usuário]! Bem-vindo(a) ao mundo do Python!".
-Exemplo de saída:
-Por favor, digite o seu nome: Ana
-Olá, Ana! Bem-vindo(a) ao mundo do Python!
-2) Calculadora Simples
-Objetivo: Praticar o uso de operadores aritméticos e a conversão de tipos de dados.
-1. Crie um programa que peça ao usuário para inserir dois números inteiros.
-2. Armazene cada número em uma variável. Lembre-se que a função input() retorna texto
-(string), então você precisará converter os valores para números inteiros usando int().
-3. Realize as quatro operações básicas (soma, subtração, multiplicação e divisão) com os
-dois números.
-4. Exiba os resultados de cada operação de forma clara para o usuário.
-
-
-
-
 nome = input("Olá, qual o seu nome:")
 print("o nome digitado foi: ", nome)
 print("olá", nome , "Bem - vinda ao mundo python!")
